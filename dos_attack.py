@@ -1,5 +1,5 @@
 # DOS attack with python and socket, threading, time libraries.
-# Author: M-Taghizadeh (http://m-taghizadeh.ir)
+# Author: M-Taghizadeh & NPZ
 
 import time
 import socket
